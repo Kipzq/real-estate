@@ -1,0 +1,9 @@
+nextjs-app/
+├── public/
+│   └── favicon.ico
+├── pages/
+│   ├── index.js
+│   └── _app.js
+├── package.json
+├── README.md
+└── next.config.js
